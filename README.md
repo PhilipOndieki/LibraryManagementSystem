@@ -4,7 +4,7 @@
 A comprehensive relational database system designed for Kenya National Library Service, implementing a complete library management solution with proper database design principles.
 
 ## Project Details
-- **Course**: Programming and Logic Paradigms (PLP)
+- **Course**: SQL (PLP)
 - **Assignment**: Database Management System Final Project
 - **Use Case**: Library Management System
 - **Database**: MySQL

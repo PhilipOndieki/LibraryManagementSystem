@@ -141,5 +141,5 @@ This project is created for educational purposes as part of the PLP coursework.
 
 ---
 **Created by**: Philip Ondieki
-**Institution**: Programming and Logic Paradigms Program  
+**Institution**: Power Learn Project(PLP) 
 **Date**: September 2025
